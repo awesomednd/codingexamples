@@ -86,3 +86,15 @@ Example 4 is used to show how you can devide multiple values together.
 Example 5 is used to show how you can set the value of a variable to an interger of numbers that are divided
 
 [code](8.3/example5.py)
+
+### Example 6
+
+Example 6 is used to show how you can get the MOD of two numbers
+
+[code](8.3/example6.py)
+
+### Example 7
+
+Example 7 shows how the programing languages obay the laws of BODMAS (Brackets of Devision Multiplication Adding Subtraction)
+
+[code](8.3/example7.py)
