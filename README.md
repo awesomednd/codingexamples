@@ -112,3 +112,127 @@ Example 1 is used to show how multiple variables and strings can be added in the
 Example 2 is used to show that you can print the Interger of an Input command
 
 [code](8.4/example2.py)
+
+## 8.5
+
+### Example 1
+
+Example 1 shows how you can use an if command to see if two items are numbers are equal
+
+[code](8.5/example1.py)
+
+### Example 2
+
+Example 2 shows that you can see if two variables are > than each other.
+
+[code](8.5/example2.py)
+
+### Example 3
+
+Example 3 shows how you can use the else command
+
+[code](8.5/example3.py)
+
+### Example 4
+
+Example 4 shows the use of an else command
+
+[code](8.5/example4.py)
+
+### Example 5
+
+Example 5 shows the use of an else if (elif) command
+
+[code](8.5/example5.py)
+
+### Example 6
+
+Example 6 shows how you can use an if elif and else commands
+
+[code](8.5/example6.py)
+
+### Example 7
+
+Example 7 how you can check against a preset number and a variable
+
+[code](8.5/example7.py)
+
+### Example 8
+
+Example 8 is used to show how you can use greater than or equal to 
+
+[code](8.5/example8.py)
+
+### Example 9
+
+Example 9 shows how you can use the and operator in an if command
+
+[code](8.5/example9.py)
+
+## 8.6
+
+### Example 1
+
+Example 1 shows how to use a for loop
+
+[code](8.6/example1.py)
+
+### Example 2
+
+Example 2 shows how we can get the current iteration of a for loop
+
+[code](8.6/example2.py)
+
+### Example 3
+
+Example 3 shows how you can get the total number of runs for a for loop
+
+[code](8.6/example3.py)
+
+### Example 4
+
+Example 4 shows how you can run a loop in a desending order
+
+[code](8.6/example4.py)
+
+### Example 5
+
+Example 5 shows how you can use a while loop 
+
+[code](8.6/example5.py)
+
+### Example 6
+
+Example 6 shows how you can use a while loop with a number
+
+[code](8.6/example6.py)
+
+### Example 7
+
+Example 7 shows how you can end a while loop by changing a value
+
+[code](8.6/example7.py)
+
+## 8.7
+
+### Example 1
+
+Example 1 shows how you can total using a while loop
+
+[code](8.7/example1.py)
+
+### Example 2
+
+Example 2 shows how you can the total of all values in an array using a for loop
+
+## 8.8
+
+### Example 1
+
+Example 1 shows how can count how many times the user says to continue with a while loop
+
+[code](8.8/example1.py)
+
+### Example 2
+
+Example 2 shows how you can count the number of values that are above a given value in an array
