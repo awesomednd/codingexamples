@@ -1,0 +1,1 @@
+stringLength = len("0123")
