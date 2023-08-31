@@ -98,3 +98,17 @@ Example 6 is used to show how you can get the MOD of two numbers
 Example 7 shows how the programing languages obay the laws of BODMAS (Brackets of Devision Multiplication Adding Subtraction)
 
 [code](8.3/example7.py)
+
+## 8.4
+
+### Example 1
+
+Example 1 is used to show how multiple variables and strings can be added in the print command.
+
+[code](8.4/example1.py)
+
+### Example 2
+
+Example 2 is used to show that you can print the Interger of an Input command
+
+[code](8.4/example2.py)
