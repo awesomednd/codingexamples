@@ -1,12 +1,12 @@
-from random import randint
+from random import randint # Importing ranint from random 
 
-arrayData = []
-total = 0
+arrayData = [] # Setting the value of array data to []
+total = 0 # Setting the value of total to 0
 
-for x in range(1, 101):
-    arrayData += [randint(0, 25565)]
+for x in range(1, 101): # Running a loop 100 times
+    arrayData += [randint(0, 25565)] # Adding a random number to the array of arrayData
 
-for count in range(0, 100):
-    total = total + arrayData[count]
+for count in range(0, 100): # Running a loop 100 times
+    total = total + arrayData[count] # Adding the number in the arrayData taht corisponds with count to the total
 
-print(str(total))
+print(str(total)) # Printing the string of total
