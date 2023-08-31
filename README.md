@@ -56,3 +56,33 @@ Example 6 shows how to set the value of an input command to a variable and how t
 [code](8.2/example6.py)
 
 ## 8.3
+
+### Example 1
+
+Example 1 is used how to how you can add together multiple values of a variable to another variable.
+
+[code](8.3/example1.py)
+
+### Example 2
+
+Example 2 is used to show how you can subtract multiple values and set them to another variable.
+
+[code](8.3/example2.py)
+
+### Example 3
+
+Example 3 is used to show that you can multiply to variables that can be entered by a user or is preset or both.
+
+[code](8.3/example3.py)
+
+### Example 4
+
+Example 4 is used to show how you can devide multiple values together.
+
+[code](8.3/example4.py)
+
+### Example 5
+
+Example 5 is used to show how you can set the value of a variable to an interger of numbers that are divided
+
+[code](8.3/example5.py)
