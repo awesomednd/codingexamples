@@ -236,3 +236,85 @@ Example 1 shows how can count how many times the user says to continue with a wh
 ### Example 2
 
 Example 2 shows how you can count the number of values that are above a given value in an array
+
+## 8.9
+
+### Example 1
+
+Example 1 shows how you can get the length of a string
+
+[code](8.9/example1.py)
+
+### Example 2
+
+Example 2 also shows how you can get the length of a string
+
+[code](8.9/example2.py)
+
+### Example 3
+
+Example 3 shows how you can define only certain parts of a full string
+
+[code](8.9/example3.py)
+
+### Example 4
+
+Example 4 shows how you can select certain parts of a string to define to a variable
+
+[code](8.9/example4.py)
+
+### Example 5
+
+Example 5 shows how you can get the length of a string that is inputed
+
+[code](8.9/example5.py)
+
+### Example 6
+
+Example 6 shows how you can select certain parts of a string
+
+[code](8.9/example6.py)
+
+### Example 7
+
+Example 7 shows how you can split a string into individual letters
+
+[code](8.9/example7.py)
+
+### Example 8
+
+Example 8 shows how you can display a certain amount of cahrectors from a string
+
+[code](8.9/example8.py)
+
+### Example 9
+
+Example 9 shows how you can change the entire string to upper case
+
+[code](8.9/example9.py)
+
+### Example 10
+
+Example 10 shows how you can change an entire string to lowercase
+
+[code](8.9/example10.py)
+
+## 8.10
+
+### Example 1
+
+Example 1 shows how you can use an if command in a for loop
+
+[code](8.10/example1.py)
+
+### Example 2
+
+Example 2 shows how you can have an if command in a while loop
+
+[code](8.10/example2.py)
+
+### Example 3
+
+Example 3 shows how you can have an if command thats in a for loop thats is another if command
+
+[code](8.10/example3.py)
