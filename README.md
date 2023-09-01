@@ -339,11 +339,15 @@ Example 1 shows how you can get the length of a string
 
 [python](python/8.9/example1.py)
 
+[java](java/8.9/example1.java)
+
 ### Example 2
 
 Example 2 also shows how you can get the length of a string
 
 [python](python/8.9/example2.py)
+
+[java](java/8.9/example2.java)
 
 ### Example 3
 
@@ -351,11 +355,15 @@ Example 3 shows how you can define only certain parts of a full string
 
 [python](python/8.9/example3.py)
 
+[java](java/8.9/example3.java)
+
 ### Example 4
 
 Example 4 shows how you can select certain parts of a string to define to a variable
 
 [python](python/8.9/example4.py)
+
+[java](java/8.9/example4.java)
 
 ### Example 5
 
@@ -363,11 +371,15 @@ Example 5 shows how you can get the length of a string that is inputed
 
 [python](python/8.9/example5.py)
 
+[java](java/8.9/example5.java)
+
 ### Example 6
 
 Example 6 shows how you can select certain parts of a string
 
 [python](python/8.9/example6.py)
+
+[java](java/8.9/example6.java)
 
 ### Example 7
 
@@ -375,11 +387,15 @@ Example 7 shows how you can split a string into individual letters
 
 [python](python/8.9/example7.py)
 
+[java](java/8.9/example7.java)
+
 ### Example 8
 
 Example 8 shows how you can display a certain amount of cahrectors from a string
 
 [python](python/8.9/example8.py)
+
+[java](java/8.9/example8.java)
 
 ### Example 9
 
@@ -387,11 +403,15 @@ Example 9 shows how you can change the entire string to upper case
 
 [python](python/8.9/example9.py)
 
+[java](java/8.9/example9.java)
+
 ### Example 10
 
 Example 10 shows how you can change an entire string to lowercase
 
 [python](python/8.9/example10.py)
+
+[java](java/8.9/example10.java)
 
 ## 8.10
 
