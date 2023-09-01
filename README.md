@@ -513,11 +513,15 @@ Example 1 shows how you can use the round liaber to round a value
 
 [python](python/8.12/example1.py)
 
+[java](java/8.12/example1.java)
+
 ### Example 2
 
 Example 2 shows how you can use the random libary
 
 [python](python/8.12/example2.py)
+
+[java](java/8.12/example2.java)
 
 ## 8.13
 
