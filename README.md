@@ -245,11 +245,15 @@ Example 1 shows how to use a for loop
 
 [python](python/8.6/example1.py)
 
+[java](java/8.6/example1.java)
+
 ### Example 2
 
 Example 2 shows how we can get the current iteration of a for loop
 
 [python](python/8.6/example2.py)
+
+[java](java/8.6/example2.java)
 
 ### Example 3
 
@@ -257,11 +261,15 @@ Example 3 shows how you can get the total number of runs for a for loop
 
 [python](python/8.6/example3.py)
 
+[java](java/8.6/example3.java)
+
 ### Example 4
 
 Example 4 shows how you can run a loop in a desending order
 
 [python](python/8.6/example4.py)
+
+[java](java/8.6/example4.java)
 
 ### Example 5
 
@@ -269,17 +277,23 @@ Example 5 shows how you can use a while loop
 
 [python](python/8.6/example5.py)
 
+[java](java/8.6/example5.java)
+
 ### Example 6
 
 Example 6 shows how you can use a while loop with a number
 
 [python](python/8.6/example6.py)
 
+[java](java/8.6/example6.java)
+
 ### Example 7
 
 Example 7 shows how you can end a while loop by changing a value
 
 [python](python/8.6/example7.py)
+
+[java](java/8.6/example7.java)
 
 ## 8.7
 
