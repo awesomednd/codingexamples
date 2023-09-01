@@ -368,3 +368,15 @@ Example 7 shows how you can pass through 2 values to a def command
 Example 8 shows you can use to inputed values tompass through to the def command
 
 [code](8.11/example8.py)
+
+## 8.12
+
+### Example 1
+
+Example 1 shows how you can use the round liaber to round a value
+
+[code](8.12/example1.py)
+
+### Example 2
+
+Example 2 shows how you can use the random libary
