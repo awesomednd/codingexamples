@@ -421,17 +421,23 @@ Example 1 shows how you can use an if command in a for loop
 
 [python](python/8.10/example1.py)
 
+[java](java/8.10/example1.java)
+
 ### Example 2
 
 Example 2 shows how you can have an if command in a while loop
 
 [python](python/8.10/example2.py)
 
+[java](java/8.10/example2.java)
+
 ### Example 3
 
 Example 3 shows how you can have an if command thats in a for loop thats is another if command
 
 [python](python/8.10/example3.py)
+
+[java](java/8.10/example3.java)
 
 ## 8.11
 
