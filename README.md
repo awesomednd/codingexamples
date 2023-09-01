@@ -318,3 +318,53 @@ Example 2 shows how you can have an if command in a while loop
 Example 3 shows how you can have an if command thats in a for loop thats is another if command
 
 [code](8.10/example3.py)
+
+## 8.11
+
+### Example 1
+
+Example 1 shows how to ise a basic subrutine
+
+[code](8.11/example1.py)
+
+### Example 2
+
+Example 2 shows how you can get an input in a subroutine
+
+[code](8.11/example2.py)
+
+### Example 3
+
+Example 3 shows how to use the return command
+
+[code](8.11/example3.py)
+
+### Example 4
+
+Example 4 also shows how you can use the return command 
+
+[code](8.11/example4.py)
+
+### Example 5
+
+Example 5 shows how variables transfer through a def command
+
+[code](8.11/example5.py)
+
+### Example 6
+
+Example 6 shows how you can pass through a value to a def command
+
+[code](8.11/example6.py)
+
+### Example 7
+
+Example 7 shows how you can pass through 2 values to a def command
+
+[code](8.11/example7.py)
+
+### Example 8
+
+Example 8 shows you can use to inputed values tompass through to the def command
+
+[code](8.11/example8.py)
