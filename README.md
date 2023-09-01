@@ -187,11 +187,15 @@ Example 3 shows how you can use the else command
 
 [python](python/8.5/example3.py)
 
+[java](java/8.5/example3.java)
+
 ### Example 4
 
 Example 4 shows the use of an else command
 
 [python](python/8.5/example4.py)
+
+[java](java/8.5/example4.java)
 
 ### Example 5
 
@@ -199,11 +203,15 @@ Example 5 shows the use of an else if (elif) command
 
 [python](python/8.5/example5.py)
 
+[java](java/8.5/example5.java)
+
 ### Example 6
 
 Example 6 shows how you can use an if elif and else commands
 
 [python](python/8.5/example6.py)
+
+[java](java/8.5/example6.java)
 
 ### Example 7
 
@@ -211,17 +219,23 @@ Example 7 how you can check against a preset number and a variable
 
 [python](python/8.5/example7.py)
 
+[java](java/8.5/example7.java)
+
 ### Example 8
 
 Example 8 is used to show how you can use greater than or equal to 
 
 [python](python/8.5/example8.py)
 
+[java](java/8.5/example8.java)
+
 ### Example 9
 
 Example 9 shows how you can use the and operator in an if command
 
 [python](python/8.5/example9.py)
+
+[java](java/8.5/example9.java)
 
 ## 8.6
 
