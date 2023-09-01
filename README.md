@@ -95,11 +95,15 @@ Example 1 is used how to how you can add together multiple values of a variable 
 
 [python](python/8.3/example1.py)
 
+[java](java/8.3/example1.java)
+
 ### Example 2
 
 Example 2 is used to show how you can subtract multiple values and set them to another variable.
 
 [python](python/8.3/example2.py)
+
+[java](java/8.3/example2.java)
 
 ### Example 3
 
@@ -107,11 +111,15 @@ Example 3 is used to show that you can multiply to variables that can be entered
 
 [python](python/8.3/example3.py)
 
+[java](java/8.3/example3.java)
+
 ### Example 4
 
 Example 4 is used to show how you can devide multiple values together.
 
 [python](python/8.3/example4.py)
+
+[java](java/8.3/example4.java)
 
 ### Example 5
 
@@ -119,17 +127,23 @@ Example 5 is used to show how you can set the value of a variable to an interger
 
 [python](python/8.3/example5.py)
 
+[java](java/8.3/example5.java)
+
 ### Example 6
 
 Example 6 is used to show how you can get the MOD of two numbers
 
 [python](python/8.3/example6.py)
 
+[java](java/8.3/example6.java)
+
 ### Example 7
 
 Example 7 shows how the programing languages obay the laws of BODMAS (Brackets of Devision Multiplication Adding Subtraction)
 
 [python](python/8.3/example7.py)
+
+[java](java/8.3/example7.java)
 
 ## 8.4
 
