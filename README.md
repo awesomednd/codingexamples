@@ -1,5 +1,5 @@
 # codingexamples
-A list of the example code from igcse computer science
+A list of the example python from igcse computer science
 
 This is a list of the example programs for the igcse computer science with comments discribing on how they work.
 
@@ -9,13 +9,13 @@ This is a list of the example programs for the igcse computer science with comme
 
 Example 1 is used to show how to convert a string to an Interger.
 
-[code](8.1/example1.py)
+[python](python/8.1/example1.py)
 
 ### Example 2
 
 Example 2 is used to show how you can turn a float into a string.
 
-[code](8.1/example2.py)
+[python](python/8.1/example2.py)
 
 ## 8.2
 
@@ -23,37 +23,37 @@ Example 2 is used to show how you can turn a float into a string.
 
 Example 1 is used to show how to print a string.
 
-[code](8.2/example1.py)
+[python](python/8.2/example1.py)
 
 ### Example 2
 
 Example 2 is used to show how you can print an Interger
 
-[code](8.2/example2.py)
+[python](python/8.2/example2.py)
 
 ### Example 3
 
 Example 3 is used to show how you can set the value of a variable to a string and how you can print the value of a variable and that you can add more than just one value to print
 
-[code](8.2/example3.py)
+[python](python/8.2/example3.py)
 
 ### Example 4
 
 Example 4 is used to show you can set the value of a variable to a Interger and how you can print text and the value of a variable.
 
-[code](8.2/example4.py)
+[python](python/8.2/example4.py)
 
 ### Example 5
 
 Example 5 is used to show how you can convert the string value of an input command and store it to a variable as well as how to use the input command and print the variable.
 
-[code](8.2/example5.py)
+[python](python/8.2/example5.py)
 
 ### Example 6
 
 Example 6 shows how to set the value of an input command to a variable and how to print the variable
 
-[code](8.2/example6.py)
+[python](python/8.2/example6.py)
 
 ## 8.3
 
@@ -61,43 +61,43 @@ Example 6 shows how to set the value of an input command to a variable and how t
 
 Example 1 is used how to how you can add together multiple values of a variable to another variable.
 
-[code](8.3/example1.py)
+[python](python/8.3/example1.py)
 
 ### Example 2
 
 Example 2 is used to show how you can subtract multiple values and set them to another variable.
 
-[code](8.3/example2.py)
+[python](python/8.3/example2.py)
 
 ### Example 3
 
 Example 3 is used to show that you can multiply to variables that can be entered by a user or is preset or both.
 
-[code](8.3/example3.py)
+[python](python/8.3/example3.py)
 
 ### Example 4
 
 Example 4 is used to show how you can devide multiple values together.
 
-[code](8.3/example4.py)
+[python](python/8.3/example4.py)
 
 ### Example 5
 
 Example 5 is used to show how you can set the value of a variable to an interger of numbers that are divided
 
-[code](8.3/example5.py)
+[python](python/8.3/example5.py)
 
 ### Example 6
 
 Example 6 is used to show how you can get the MOD of two numbers
 
-[code](8.3/example6.py)
+[python](python/8.3/example6.py)
 
 ### Example 7
 
 Example 7 shows how the programing languages obay the laws of BODMAS (Brackets of Devision Multiplication Adding Subtraction)
 
-[code](8.3/example7.py)
+[python](python/8.3/example7.py)
 
 ## 8.4
 
@@ -105,13 +105,13 @@ Example 7 shows how the programing languages obay the laws of BODMAS (Brackets o
 
 Example 1 is used to show how multiple variables and strings can be added in the print command.
 
-[code](8.4/example1.py)
+[python](python/8.4/example1.py)
 
 ### Example 2
 
 Example 2 is used to show that you can print the Interger of an Input command
 
-[code](8.4/example2.py)
+[python](python/8.4/example2.py)
 
 ## 8.5
 
@@ -119,55 +119,55 @@ Example 2 is used to show that you can print the Interger of an Input command
 
 Example 1 shows how you can use an if command to see if two items are numbers are equal
 
-[code](8.5/example1.py)
+[python](python/8.5/example1.py)
 
 ### Example 2
 
 Example 2 shows that you can see if two variables are > than each other.
 
-[code](8.5/example2.py)
+[python](python/8.5/example2.py)
 
 ### Example 3
 
 Example 3 shows how you can use the else command
 
-[code](8.5/example3.py)
+[python](python/8.5/example3.py)
 
 ### Example 4
 
 Example 4 shows the use of an else command
 
-[code](8.5/example4.py)
+[python](python/8.5/example4.py)
 
 ### Example 5
 
 Example 5 shows the use of an else if (elif) command
 
-[code](8.5/example5.py)
+[python](python/8.5/example5.py)
 
 ### Example 6
 
 Example 6 shows how you can use an if elif and else commands
 
-[code](8.5/example6.py)
+[python](python/8.5/example6.py)
 
 ### Example 7
 
 Example 7 how you can check against a preset number and a variable
 
-[code](8.5/example7.py)
+[python](python/8.5/example7.py)
 
 ### Example 8
 
 Example 8 is used to show how you can use greater than or equal to 
 
-[code](8.5/example8.py)
+[python](python/8.5/example8.py)
 
 ### Example 9
 
 Example 9 shows how you can use the and operator in an if command
 
-[code](8.5/example9.py)
+[python](python/8.5/example9.py)
 
 ## 8.6
 
@@ -175,43 +175,43 @@ Example 9 shows how you can use the and operator in an if command
 
 Example 1 shows how to use a for loop
 
-[code](8.6/example1.py)
+[python](python/8.6/example1.py)
 
 ### Example 2
 
 Example 2 shows how we can get the current iteration of a for loop
 
-[code](8.6/example2.py)
+[python](python/8.6/example2.py)
 
 ### Example 3
 
 Example 3 shows how you can get the total number of runs for a for loop
 
-[code](8.6/example3.py)
+[python](python/8.6/example3.py)
 
 ### Example 4
 
 Example 4 shows how you can run a loop in a desending order
 
-[code](8.6/example4.py)
+[python](python/8.6/example4.py)
 
 ### Example 5
 
 Example 5 shows how you can use a while loop 
 
-[code](8.6/example5.py)
+[python](python/8.6/example5.py)
 
 ### Example 6
 
 Example 6 shows how you can use a while loop with a number
 
-[code](8.6/example6.py)
+[python](python/8.6/example6.py)
 
 ### Example 7
 
 Example 7 shows how you can end a while loop by changing a value
 
-[code](8.6/example7.py)
+[python](python/8.6/example7.py)
 
 ## 8.7
 
@@ -219,11 +219,13 @@ Example 7 shows how you can end a while loop by changing a value
 
 Example 1 shows how you can total using a while loop
 
-[code](8.7/example1.py)
+[python](python/8.7/example1.py)
 
 ### Example 2
 
 Example 2 shows how you can the total of all values in an array using a for loop
+
+[python](python/8.7/example2.py)
 
 ## 8.8
 
@@ -231,7 +233,7 @@ Example 2 shows how you can the total of all values in an array using a for loop
 
 Example 1 shows how can count how many times the user says to continue with a while loop
 
-[code](8.8/example1.py)
+[python](python/python/8.8/example1.py)
 
 ### Example 2
 
@@ -243,61 +245,61 @@ Example 2 shows how you can count the number of values that are above a given va
 
 Example 1 shows how you can get the length of a string
 
-[code](8.9/example1.py)
+[python](python/8.9/example1.py)
 
 ### Example 2
 
 Example 2 also shows how you can get the length of a string
 
-[code](8.9/example2.py)
+[python](python/8.9/example2.py)
 
 ### Example 3
 
 Example 3 shows how you can define only certain parts of a full string
 
-[code](8.9/example3.py)
+[python](python/8.9/example3.py)
 
 ### Example 4
 
 Example 4 shows how you can select certain parts of a string to define to a variable
 
-[code](8.9/example4.py)
+[python](python/8.9/example4.py)
 
 ### Example 5
 
 Example 5 shows how you can get the length of a string that is inputed
 
-[code](8.9/example5.py)
+[python](python/8.9/example5.py)
 
 ### Example 6
 
 Example 6 shows how you can select certain parts of a string
 
-[code](8.9/example6.py)
+[python](python/8.9/example6.py)
 
 ### Example 7
 
 Example 7 shows how you can split a string into individual letters
 
-[code](8.9/example7.py)
+[python](python/8.9/example7.py)
 
 ### Example 8
 
 Example 8 shows how you can display a certain amount of cahrectors from a string
 
-[code](8.9/example8.py)
+[python](python/8.9/example8.py)
 
 ### Example 9
 
 Example 9 shows how you can change the entire string to upper case
 
-[code](8.9/example9.py)
+[python](python/8.9/example9.py)
 
 ### Example 10
 
 Example 10 shows how you can change an entire string to lowercase
 
-[code](8.9/example10.py)
+[python](python/8.9/example10.py)
 
 ## 8.10
 
@@ -305,19 +307,19 @@ Example 10 shows how you can change an entire string to lowercase
 
 Example 1 shows how you can use an if command in a for loop
 
-[code](8.10/example1.py)
+[python](python/8.10/example1.py)
 
 ### Example 2
 
 Example 2 shows how you can have an if command in a while loop
 
-[code](8.10/example2.py)
+[python](python/8.10/example2.py)
 
 ### Example 3
 
 Example 3 shows how you can have an if command thats in a for loop thats is another if command
 
-[code](8.10/example3.py)
+[python](python/8.10/example3.py)
 
 ## 8.11
 
@@ -325,49 +327,49 @@ Example 3 shows how you can have an if command thats in a for loop thats is anot
 
 Example 1 shows how to ise a basic subrutine
 
-[code](8.11/example1.py)
+[python](python/8.11/example1.py)
 
 ### Example 2
 
 Example 2 shows how you can get an input in a subroutine
 
-[code](8.11/example2.py)
+[python](python/8.11/example2.py)
 
 ### Example 3
 
 Example 3 shows how to use the return command
 
-[code](8.11/example3.py)
+[python](python/8.11/example3.py)
 
 ### Example 4
 
 Example 4 also shows how you can use the return command 
 
-[code](8.11/example4.py)
+[python](python/8.11/example4.py)
 
 ### Example 5
 
 Example 5 shows how variables transfer through a def command
 
-[code](8.11/example5.py)
+[python](python/8.11/example5.py)
 
 ### Example 6
 
 Example 6 shows how you can pass through a value to a def command
 
-[code](8.11/example6.py)
+[python](python/8.11/example6.py)
 
 ### Example 7
 
 Example 7 shows how you can pass through 2 values to a def command
 
-[code](8.11/example7.py)
+[python](python/8.11/example7.py)
 
 ### Example 8
 
 Example 8 shows you can use to inputed values tompass through to the def command
 
-[code](8.11/example8.py)
+[python](python/8.11/example8.py)
 
 ## 8.12
 
@@ -375,8 +377,10 @@ Example 8 shows you can use to inputed values tompass through to the def command
 
 Example 1 shows how you can use the round liaber to round a value
 
-[code](8.12/example1.py)
+[python](python/8.12/example1.py)
 
 ### Example 2
 
 Example 2 shows how you can use the random libary
+
+[python](python/8.12/example2.py)
