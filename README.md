@@ -531,8 +531,12 @@ Example 1 shows how you can use comments
 
 [python](python/8.13/example1.py)
 
+[java](java/8.13/example1.java)
+
 ### Example 2
 
 Example 2 shows again how you can use comments
 
 [python](python/8.13/example2.py)
+
+[java](java/8.13/example2.java)
