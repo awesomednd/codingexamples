@@ -1,0 +1,2 @@
+OUTPUT("Enter a word)
+INPUT Word

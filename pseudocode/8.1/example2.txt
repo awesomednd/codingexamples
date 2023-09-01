@@ -1,0 +1,1 @@
+Value ⟵ string(22.4)

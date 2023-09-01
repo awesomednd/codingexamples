@@ -1,0 +1,2 @@
+Cost ⟵ 22.54
+OUTPUT("The cost is ", Cost)
