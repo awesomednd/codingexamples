@@ -447,11 +447,15 @@ Example 1 shows how to ise a basic subrutine
 
 [python](python/8.11/example1.py)
 
+[java](java/8.11/example1.java)
+
 ### Example 2
 
 Example 2 shows how you can get an input in a subroutine
 
 [python](python/8.11/example2.py)
+
+[java](java/8.11/example2.java)
 
 ### Example 3
 
@@ -459,11 +463,15 @@ Example 3 shows how to use the return command
 
 [python](python/8.11/example3.py)
 
+[java](java/8.11/example3.java)
+
 ### Example 4
 
 Example 4 also shows how you can use the return command 
 
 [python](python/8.11/example4.py)
+
+[java](java/8.11/example4.java)
 
 ### Example 5
 
@@ -471,11 +479,15 @@ Example 5 shows how variables transfer through a def command
 
 [python](python/8.11/example5.py)
 
+[java](java/8.11/example5.java)
+
 ### Example 6
 
 Example 6 shows how you can pass through a value to a def command
 
 [python](python/8.11/example6.py)
+
+[java](java/8.11/example6.java)
 
 ### Example 7
 
@@ -483,11 +495,15 @@ Example 7 shows how you can pass through 2 values to a def command
 
 [python](python/8.11/example7.py)
 
+[java](java/8.11/example7.java)
+
 ### Example 8
 
 Example 8 shows you can use to inputed values tompass through to the def command
 
 [python](python/8.11/example8.py)
+
+[java](java/8.11/example8.java)
 
 ## 8.12
 
