@@ -13,6 +13,8 @@ Example 1 is used to show how to convert a string to an Interger.
 
 [python](python/8.1/example1.py)
 
+[java](java/8.1/example1.java)
+
 ### Example 2
 
 Example 2 is used to show how you can turn a float into a string.
@@ -20,6 +22,8 @@ Example 2 is used to show how you can turn a float into a string.
 [pseudo code](pseudocode/8.1/example2.txt)
 
 [python](python/8.1/example2.py)
+
+[java](java/8.1/example2.java)
 
 ## 8.2
 
