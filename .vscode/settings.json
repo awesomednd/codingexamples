@@ -2,5 +2,13 @@
     "java.project.sourcePaths": [
         "java/8.1",
         "java/8.2"
-    ]
+    ],
+    "rust-analyzer.linkedProjects": [
+        ".\\rust\\Cargo.toml",
+        ".\\rust\\Cargo.toml",
+        ".\\rust\\Cargo.toml",
+        ".\\rust\\Cargo.toml",
+        ".\\rust\\Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
 }

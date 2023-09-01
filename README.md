@@ -15,6 +15,8 @@ Example 1 is used to show how to convert a string to an Interger.
 
 [java](java/8.1/example1.java)
 
+[rust](rust/src/8.1/example1.rs)
+
 ### Example 2
 
 Example 2 is used to show how you can turn a float into a string.
@@ -24,6 +26,8 @@ Example 2 is used to show how you can turn a float into a string.
 [python](python/8.1/example2.py)
 
 [java](java/8.1/example2.java)
+
+[rust](rust/src/8.1/example2.rs)
 
 ## 8.2
 
