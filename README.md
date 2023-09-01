@@ -384,3 +384,17 @@ Example 1 shows how you can use the round liaber to round a value
 Example 2 shows how you can use the random libary
 
 [python](python/8.12/example2.py)
+
+## 8.13
+
+### Example 1
+
+Example 1 shows how you can use comments
+
+[python](python/8.13/example1.py)
+
+### Example 2
+
+Example 2 shows again how you can use comments
+
+[python](python/8.13/example2.py)
