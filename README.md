@@ -171,11 +171,15 @@ Example 1 shows how you can use an if command to see if two items are numbers ar
 
 [python](python/8.5/example1.py)
 
+[java](java/8.5/example1.java)
+
 ### Example 2
 
 Example 2 shows that you can see if two variables are > than each other.
 
 [python](python/8.5/example2.py)
+
+[java](java/8.5/example2.java)
 
 ### Example 3
 
