@@ -41,6 +41,8 @@ Example 1 is used to show how to print a string.
 
 [java](java/8.2/example1.java)
 
+[rust](rust/src/8.2/example1.rs)
+
 ### Example 2
 
 Example 2 is used to show how you can print an Interger
@@ -50,6 +52,8 @@ Example 2 is used to show how you can print an Interger
 [python](python/8.2/example2.py)
 
 [java](java/8.2/example2.java)
+
+[rust](rust/src/8.2/example2.rs)
 
 ### Example 3
 
@@ -61,6 +65,8 @@ Example 3 is used to show how you can set the value of a variable to a string an
 
 [java](java/8.2/example3.java)
 
+[rust](rust/src/8.2/example3.rs)
+
 ### Example 4
 
 Example 4 is used to show you can set the value of a variable to a Interger and how you can print text and the value of a variable.
@@ -70,6 +76,8 @@ Example 4 is used to show you can set the value of a variable to a Interger and 
 [python](python/8.2/example4.py)
 
 [java](java/8.2/example4.java)
+
+[rust](rust/src/8.2/example4.rs)
 
 ### Example 5
 
@@ -81,6 +89,8 @@ Example 5 is used to show how you can convert the string value of an input comma
 
 [java](java/8.2/example5.java)
 
+[rust](rust/src/8.2/example5.rs)
+
 ### Example 6
 
 Example 6 shows how to set the value of an input command to a variable and how to print the variable
@@ -90,6 +100,8 @@ Example 6 shows how to set the value of an input command to a variable and how t
 [python](python/8.2/example6.py)
 
 [java](java/8.2/example6.java)
+
+[rust](rust/src/8.2/example6.rs)
 
 ## 8.3
 
