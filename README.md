@@ -303,11 +303,15 @@ Example 1 shows how you can total using a while loop
 
 [python](python/8.7/example1.py)
 
+[java](java/8.7/example1.java)
+
 ### Example 2
 
 Example 2 shows how you can the total of all values in an array using a for loop
 
 [python](python/8.7/example2.py)
+
+[java](java/8.7/example2.java)
 
 ## 8.8
 
