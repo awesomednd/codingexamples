@@ -321,9 +321,15 @@ Example 1 shows how can count how many times the user says to continue with a wh
 
 [python](python/python/8.8/example1.py)
 
+[java](java/8.8/example1.java)
+
 ### Example 2
 
 Example 2 shows how you can count the number of values that are above a given value in an array
+
+[python](python/8.8/example2.py)
+
+[java](java/8.8/example2.java)
 
 ## 8.9
 
