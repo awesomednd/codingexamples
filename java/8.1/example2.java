@@ -1,5 +1,6 @@
 public class example2 {
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        String value = Double.toString(22.4);
+        System.out.println(value);
     }
 }
