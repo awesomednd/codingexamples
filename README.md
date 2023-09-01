@@ -9,6 +9,7 @@ This is a list of the example programs for the igcse computer science with comme
 
 Example 1 is used to show how to convert a string to an Interger.
 
+[pseudo code]('pseudo code'/8.1/example1.txt)
 [python](python/8.1/example1.py)
 
 ### Example 2
