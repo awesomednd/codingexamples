@@ -113,6 +113,8 @@ Example 1 is used how to how you can add together multiple values of a variable 
 
 [java](java/8.3/example1.java)
 
+[rust](rust/src/8.3/example1.rs)
+
 ### Example 2
 
 Example 2 is used to show how you can subtract multiple values and set them to another variable.
@@ -120,6 +122,8 @@ Example 2 is used to show how you can subtract multiple values and set them to a
 [python](python/8.3/example2.py)
 
 [java](java/8.3/example2.java)
+
+[rust](rust/src/8.3/example2.rs)
 
 ### Example 3
 
@@ -129,6 +133,8 @@ Example 3 is used to show that you can multiply to variables that can be entered
 
 [java](java/8.3/example3.java)
 
+[rust](rust/src/8.3/example3.rs)
+
 ### Example 4
 
 Example 4 is used to show how you can devide multiple values together.
@@ -136,6 +142,8 @@ Example 4 is used to show how you can devide multiple values together.
 [python](python/8.3/example4.py)
 
 [java](java/8.3/example4.java)
+
+[rust](rust/src/8.3/example4.rs)
 
 ### Example 5
 
@@ -145,6 +153,8 @@ Example 5 is used to show how you can set the value of a variable to an interger
 
 [java](java/8.3/example5.java)
 
+[rust](rust/src/8.3/example5.rs)
+
 ### Example 6
 
 Example 6 is used to show how you can get the MOD of two numbers
@@ -153,6 +163,8 @@ Example 6 is used to show how you can get the MOD of two numbers
 
 [java](java/8.3/example6.java)
 
+[rust](rust/src/8.3/example6.rs)
+
 ### Example 7
 
 Example 7 shows how the programing languages obay the laws of BODMAS (Brackets of Devision Multiplication Adding Subtraction)
@@ -160,6 +172,8 @@ Example 7 shows how the programing languages obay the laws of BODMAS (Brackets o
 [python](python/8.3/example7.py)
 
 [java](java/8.3/example7.java)
+
+[rust](rust/src/8.3/example7.rs)
 
 ## 8.4
 
