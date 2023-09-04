@@ -185,6 +185,8 @@ Example 1 is used to show how multiple variables and strings can be added in the
 
 [java](java/8.4/example1.java)
 
+[rust](rust/src/8.4/example1.rs)
+
 ### Example 2
 
 Example 2 is used to show that you can print the Interger of an Input command
@@ -192,6 +194,8 @@ Example 2 is used to show that you can print the Interger of an Input command
 [python](python/8.4/example2.py)
 
 [java](java/8.4/example2.java)
+
+[rust](rust/src/8.4/example2.rs)
 
 ## 8.5
 
