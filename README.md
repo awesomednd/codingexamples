@@ -207,6 +207,8 @@ Example 1 shows how you can use an if command to see if two items are numbers ar
 
 [java](java/8.5/example1.java)
 
+[rust](rust/src/8.5/example1.rs)
+
 ### Example 2
 
 Example 2 shows that you can see if two variables are > than each other.
@@ -214,6 +216,8 @@ Example 2 shows that you can see if two variables are > than each other.
 [python](python/8.5/example2.py)
 
 [java](java/8.5/example2.java)
+
+[rust](rust/src/8.5/example2.rs)
 
 ### Example 3
 
@@ -223,6 +227,8 @@ Example 3 shows how you can use the else command
 
 [java](java/8.5/example3.java)
 
+[rust](rust/src/8.5/example3.rs)
+
 ### Example 4
 
 Example 4 shows the use of an else command
@@ -230,6 +236,8 @@ Example 4 shows the use of an else command
 [python](python/8.5/example4.py)
 
 [java](java/8.5/example4.java)
+
+[rust](rust/src/8.5/example4.rs)
 
 ### Example 5
 
@@ -239,6 +247,8 @@ Example 5 shows the use of an else if (elif) command
 
 [java](java/8.5/example5.java)
 
+[rust](rust/src/8.5/example5.rs)
+
 ### Example 6
 
 Example 6 shows how you can use an if elif and else commands
@@ -246,6 +256,8 @@ Example 6 shows how you can use an if elif and else commands
 [python](python/8.5/example6.py)
 
 [java](java/8.5/example6.java)
+
+[rust](rust/src/8.5/example6.rs)
 
 ### Example 7
 
@@ -255,6 +267,8 @@ Example 7 how you can check against a preset number and a variable
 
 [java](java/8.5/example7.java)
 
+[rust](rust/src/8.5/example7.rs)
+
 ### Example 8
 
 Example 8 is used to show how you can use greater than or equal to 
@@ -263,6 +277,8 @@ Example 8 is used to show how you can use greater than or equal to
 
 [java](java/8.5/example8.java)
 
+[rust](rust/src/8.5/example8.rs)
+
 ### Example 9
 
 Example 9 shows how you can use the and operator in an if command
@@ -270,6 +286,8 @@ Example 9 shows how you can use the and operator in an if command
 [python](python/8.5/example9.py)
 
 [java](java/8.5/example9.java)
+
+[rust](rust/src/8.5/example9.rs)
 
 ## 8.6
 
