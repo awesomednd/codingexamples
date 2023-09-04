@@ -299,6 +299,8 @@ Example 1 shows how to use a for loop
 
 [java](java/8.6/example1.java)
 
+[rust](rust/src/8.6/example1.rs)
+
 ### Example 2
 
 Example 2 shows how we can get the current iteration of a for loop
@@ -306,6 +308,8 @@ Example 2 shows how we can get the current iteration of a for loop
 [python](python/8.6/example2.py)
 
 [java](java/8.6/example2.java)
+
+[rust](rust/src/8.6/example2.rs)
 
 ### Example 3
 
@@ -315,6 +319,8 @@ Example 3 shows how you can get the total number of runs for a for loop
 
 [java](java/8.6/example3.java)
 
+[rust](rust/src/8.6/example3.rs)
+
 ### Example 4
 
 Example 4 shows how you can run a loop in a desending order
@@ -322,6 +328,8 @@ Example 4 shows how you can run a loop in a desending order
 [python](python/8.6/example4.py)
 
 [java](java/8.6/example4.java)
+
+[rust](rust/src/8.6/example4.rs)
 
 ### Example 5
 
@@ -331,6 +339,8 @@ Example 5 shows how you can use a while loop
 
 [java](java/8.6/example5.java)
 
+[rust](rust/src/8.6/example5.rs)
+
 ### Example 6
 
 Example 6 shows how you can use a while loop with a number
@@ -339,6 +349,8 @@ Example 6 shows how you can use a while loop with a number
 
 [java](java/8.6/example6.java)
 
+[rust](rust/src/8.6/example6.rs)
+
 ### Example 7
 
 Example 7 shows how you can end a while loop by changing a value
@@ -346,6 +358,8 @@ Example 7 shows how you can end a while loop by changing a value
 [python](python/8.6/example7.py)
 
 [java](java/8.6/example7.java)
+
+[rust](rust/src/8.6/example7.rs)
 
 ## 8.7
 
