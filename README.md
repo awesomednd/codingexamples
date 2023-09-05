@@ -415,6 +415,8 @@ Example 1 shows how you can get the length of a string
 
 [java](java/8.9/example1.java)
 
+[rust](rust/src/e89/example1.rs)
+
 ### Example 2
 
 Example 2 also shows how you can get the length of a string
@@ -422,6 +424,8 @@ Example 2 also shows how you can get the length of a string
 [python](python/8.9/example2.py)
 
 [java](java/8.9/example2.java)
+
+[rust](rust/src/e89/example2.rs)
 
 ### Example 3
 
@@ -431,6 +435,8 @@ Example 3 shows how you can define only certain parts of a full string
 
 [java](java/8.9/example3.java)
 
+[rust](rust/src/e89/example3.rs)
+
 ### Example 4
 
 Example 4 shows how you can select certain parts of a string to define to a variable
@@ -438,6 +444,8 @@ Example 4 shows how you can select certain parts of a string to define to a vari
 [python](python/8.9/example4.py)
 
 [java](java/8.9/example4.java)
+
+[rust](rust/src/e89/example4.rs)
 
 ### Example 5
 
@@ -447,6 +455,8 @@ Example 5 shows how you can get the length of a string that is inputed
 
 [java](java/8.9/example5.java)
 
+[rust](rust/src/e89/example5.rs)
+
 ### Example 6
 
 Example 6 shows how you can select certain parts of a string
@@ -454,6 +464,8 @@ Example 6 shows how you can select certain parts of a string
 [python](python/8.9/example6.py)
 
 [java](java/8.9/example6.java)
+
+[rust](rust/src/e89/example6.rs)
 
 ### Example 7
 
@@ -463,6 +475,8 @@ Example 7 shows how you can split a string into individual letters
 
 [java](java/8.9/example7.java)
 
+[rust](rust/src/e89/example7.rs)
+
 ### Example 8
 
 Example 8 shows how you can display a certain amount of cahrectors from a string
@@ -470,6 +484,8 @@ Example 8 shows how you can display a certain amount of cahrectors from a string
 [python](python/8.9/example8.py)
 
 [java](java/8.9/example8.java)
+
+[rust](rust/src/e89/example8.rs)
 
 ### Example 9
 
@@ -479,6 +495,8 @@ Example 9 shows how you can change the entire string to upper case
 
 [java](java/8.9/example9.java)
 
+[rust](rust/src/e89/example9.rs)
+
 ### Example 10
 
 Example 10 shows how you can change an entire string to lowercase
@@ -486,6 +504,8 @@ Example 10 shows how you can change an entire string to lowercase
 [python](python/8.9/example10.py)
 
 [java](java/8.9/example10.java)
+
+[rust](rust/src/e89/example10.rs)
 
 ## 8.10
 

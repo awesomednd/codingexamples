@@ -6,6 +6,7 @@ mod e85;
 mod e86;
 mod e87;
 mod e88;
+mod e89;
 
 fn main() {
     let mut selected = String::new();
@@ -40,5 +41,7 @@ fn main() {
         e87::main();
     } else if selected.trim() == "8" {
         e88::main();
+    } else if selected.trim() == "9" {
+        e89::main();
     }
 }
