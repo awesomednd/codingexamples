@@ -371,6 +371,8 @@ Example 1 shows how you can total using a while loop
 
 [java](java/8.7/example1.java)
 
+[rust](rust/src/e87/example1.rs)
+
 ### Example 2
 
 Example 2 shows how you can the total of all values in an array using a for loop
@@ -378,6 +380,8 @@ Example 2 shows how you can the total of all values in an array using a for loop
 [python](python/8.7/example2.py)
 
 [java](java/8.7/example2.java)
+
+[rust](rust/src/e87/example2.rs)
 
 ## 8.8
 
@@ -389,6 +393,8 @@ Example 1 shows how can count how many times the user says to continue with a wh
 
 [java](java/8.8/example1.java)
 
+[rust](rust/src/e88/example1.rs)
+
 ### Example 2
 
 Example 2 shows how you can count the number of values that are above a given value in an array
@@ -396,6 +402,8 @@ Example 2 shows how you can count the number of values that are above a given va
 [python](python/8.8/example2.py)
 
 [java](java/8.8/example2.java)
+
+[rust](rust/src/e88/example2.rs)
 
 ## 8.9
 

@@ -6,9 +6,11 @@ pub fn main() {
         let num = rand::thread_rng().gen_range(0..25565);
         arrayData[x] = num;
     }
-    let mut total = 0;
+    let mut count = 0;
     for x in 0..100 {
-        total += arrayData[x];
+        if arrayData[x] > 50 {
+            count += 1;
+        }
     }
-    println!("The total of all the values is {}", total);
+    println!("The total number of values above 50 is {}", count);
 }
