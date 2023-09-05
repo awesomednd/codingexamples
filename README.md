@@ -15,7 +15,7 @@ Example 1 is used to show how to convert a string to an Interger.
 
 [java](java/8.1/example1.java)
 
-[rust](rust/src/81/example1.rs)
+[rust](rust/src/e81/example1.rs)
 
 ### Example 2
 
@@ -27,7 +27,7 @@ Example 2 is used to show how you can turn a float into a string.
 
 [java](java/8.1/example2.java)
 
-[rust](rust/src/81/example2.rs)
+[rust](rust/src/e81/example2.rs)
 
 ## 8.2
 
@@ -41,7 +41,7 @@ Example 1 is used to show how to print a string.
 
 [java](java/8.2/example1.java)
 
-[rust](rust/src/82/example1.rs)
+[rust](rust/src/e82/example1.rs)
 
 ### Example 2
 
@@ -53,7 +53,7 @@ Example 2 is used to show how you can print an Interger
 
 [java](java/8.2/example2.java)
 
-[rust](rust/src/82/example2.rs)
+[rust](rust/src/e82/example2.rs)
 
 ### Example 3
 
@@ -65,7 +65,7 @@ Example 3 is used to show how you can set the value of a variable to a string an
 
 [java](java/8.2/example3.java)
 
-[rust](rust/src/82/example3.rs)
+[rust](rust/src/e82/example3.rs)
 
 ### Example 4
 
@@ -77,7 +77,7 @@ Example 4 is used to show you can set the value of a variable to a Interger and 
 
 [java](java/8.2/example4.java)
 
-[rust](rust/src/82/example4.rs)
+[rust](rust/src/e82/example4.rs)
 
 ### Example 5
 
@@ -89,7 +89,7 @@ Example 5 is used to show how you can convert the string value of an input comma
 
 [java](java/8.2/example5.java)
 
-[rust](rust/src/82/example5.rs)
+[rust](rust/src/e82/example5.rs)
 
 ### Example 6
 
@@ -101,7 +101,7 @@ Example 6 shows how to set the value of an input command to a variable and how t
 
 [java](java/8.2/example6.java)
 
-[rust](rust/src/82/example6.rs)
+[rust](rust/src/e82/example6.rs)
 
 ## 8.3
 
@@ -113,7 +113,7 @@ Example 1 is used how to how you can add together multiple values of a variable 
 
 [java](java/8.3/example1.java)
 
-[rust](rust/src/83/example1.rs)
+[rust](rust/src/e83/example1.rs)
 
 ### Example 2
 
@@ -123,7 +123,7 @@ Example 2 is used to show how you can subtract multiple values and set them to a
 
 [java](java/8.3/example2.java)
 
-[rust](rust/src/83/example2.rs)
+[rust](rust/src/e83/example2.rs)
 
 ### Example 3
 
@@ -133,7 +133,7 @@ Example 3 is used to show that you can multiply to variables that can be entered
 
 [java](java/8.3/example3.java)
 
-[rust](rust/src/83/example3.rs)
+[rust](rust/src/e83/example3.rs)
 
 ### Example 4
 
@@ -143,7 +143,7 @@ Example 4 is used to show how you can devide multiple values together.
 
 [java](java/8.3/example4.java)
 
-[rust](rust/src/83/example4.rs)
+[rust](rust/src/e83/example4.rs)
 
 ### Example 5
 
@@ -153,7 +153,7 @@ Example 5 is used to show how you can set the value of a variable to an interger
 
 [java](java/8.3/example5.java)
 
-[rust](rust/src/83/example5.rs)
+[rust](rust/src/e83/example5.rs)
 
 ### Example 6
 
@@ -163,7 +163,7 @@ Example 6 is used to show how you can get the MOD of two numbers
 
 [java](java/8.3/example6.java)
 
-[rust](rust/src/83/example6.rs)
+[rust](rust/src/e83/example6.rs)
 
 ### Example 7
 
@@ -173,7 +173,7 @@ Example 7 shows how the programing languages obay the laws of BODMAS (Brackets o
 
 [java](java/8.3/example7.java)
 
-[rust](rust/src/83/example7.rs)
+[rust](rust/src/e83/example7.rs)
 
 ## 8.4
 
@@ -185,7 +185,7 @@ Example 1 is used to show how multiple variables and strings can be added in the
 
 [java](java/8.4/example1.java)
 
-[rust](rust/src/84/example1.rs)
+[rust](rust/src/e84/example1.rs)
 
 ### Example 2
 
@@ -195,7 +195,7 @@ Example 2 is used to show that you can print the Interger of an Input command
 
 [java](java/8.4/example2.java)
 
-[rust](rust/src/84/example2.rs)
+[rust](rust/src/e84/example2.rs)
 
 ## 8.5
 
@@ -207,7 +207,7 @@ Example 1 shows how you can use an if command to see if two items are numbers ar
 
 [java](java/8.5/example1.java)
 
-[rust](rust/src/85/example1.rs)
+[rust](rust/src/e85/example1.rs)
 
 ### Example 2
 
@@ -217,7 +217,7 @@ Example 2 shows that you can see if two variables are > than each other.
 
 [java](java/8.5/example2.java)
 
-[rust](rust/src/85/example2.rs)
+[rust](rust/src/e85/example2.rs)
 
 ### Example 3
 
@@ -227,7 +227,7 @@ Example 3 shows how you can use the else command
 
 [java](java/8.5/example3.java)
 
-[rust](rust/src/85/example3.rs)
+[rust](rust/src/e85/example3.rs)
 
 ### Example 4
 
@@ -237,7 +237,7 @@ Example 4 shows the use of an else command
 
 [java](java/8.5/example4.java)
 
-[rust](rust/src/85/example4.rs)
+[rust](rust/src/e85/example4.rs)
 
 ### Example 5
 
@@ -247,7 +247,7 @@ Example 5 shows the use of an else if (elif) command
 
 [java](java/8.5/example5.java)
 
-[rust](rust/src/85/example5.rs)
+[rust](rust/src/e85/example5.rs)
 
 ### Example 6
 
@@ -257,7 +257,7 @@ Example 6 shows how you can use an if elif and else commands
 
 [java](java/8.5/example6.java)
 
-[rust](rust/src/85/example6.rs)
+[rust](rust/src/e85/example6.rs)
 
 ### Example 7
 
@@ -267,7 +267,7 @@ Example 7 how you can check against a preset number and a variable
 
 [java](java/8.5/example7.java)
 
-[rust](rust/src/85/example7.rs)
+[rust](rust/src/e85/example7.rs)
 
 ### Example 8
 
@@ -277,7 +277,7 @@ Example 8 is used to show how you can use greater than or equal to
 
 [java](java/8.5/example8.java)
 
-[rust](rust/src/85/example8.rs)
+[rust](rust/src/e85/example8.rs)
 
 ### Example 9
 
@@ -287,7 +287,7 @@ Example 9 shows how you can use the and operator in an if command
 
 [java](java/8.5/example9.java)
 
-[rust](rust/src/85/example9.rs)
+[rust](rust/src/e85/example9.rs)
 
 ## 8.6
 
@@ -299,7 +299,7 @@ Example 1 shows how to use a for loop
 
 [java](java/8.6/example1.java)
 
-[rust](rust/src/86/example1.rs)
+[rust](rust/src/e86/example1.rs)
 
 ### Example 2
 
@@ -309,7 +309,7 @@ Example 2 shows how we can get the current iteration of a for loop
 
 [java](java/8.6/example2.java)
 
-[rust](rust/src/86/example2.rs)
+[rust](rust/src/e86/example2.rs)
 
 ### Example 3
 
@@ -319,7 +319,7 @@ Example 3 shows how you can get the total number of runs for a for loop
 
 [java](java/8.6/example3.java)
 
-[rust](rust/src/86/example3.rs)
+[rust](rust/src/e86/example3.rs)
 
 ### Example 4
 
@@ -329,7 +329,7 @@ Example 4 shows how you can run a loop in a desending order
 
 [java](java/8.6/example4.java)
 
-[rust](rust/src/86/example4.rs)
+[rust](rust/src/e86/example4.rs)
 
 ### Example 5
 
@@ -339,7 +339,7 @@ Example 5 shows how you can use a while loop
 
 [java](java/8.6/example5.java)
 
-[rust](rust/src/86/example5.rs)
+[rust](rust/src/e86/example5.rs)
 
 ### Example 6
 
@@ -349,7 +349,7 @@ Example 6 shows how you can use a while loop with a number
 
 [java](java/8.6/example6.java)
 
-[rust](rust/src/86/example6.rs)
+[rust](rust/src/e86/example6.rs)
 
 ### Example 7
 
@@ -359,7 +359,7 @@ Example 7 shows how you can end a while loop by changing a value
 
 [java](java/8.6/example7.java)
 
-[rust](rust/src/86/example7.rs)
+[rust](rust/src/e86/example7.rs)
 
 ## 8.7
 
