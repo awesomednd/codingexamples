@@ -1,13 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "main.h"
+#include "exc.h"
 
 int main() {
-    printf("Enter the example list you wnat to use from the selection below\n");
-    printf("Example1 - 1\n");
-    printf("Example2 - 2\n");
+    print("Enter the example list you wnat to use from the selection below\n", 0, "s");
+    print("Example1 - 1\n", 0, "s");
+    print("Example2 - 2\n", 0, "s");
     int exi;
-    scanf("%d", &exi);
+    exi = input("i", 2);
+    print("", exi, "i");
     if (exi == 1) {
         e81();
     } else if (exi == 2) {
