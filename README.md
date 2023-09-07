@@ -19,6 +19,8 @@ Example 1 is used to show how to convert a string to an Interger.
 
 [ruby](ruby/8.1/example1.rb)
 
+[C](C/8.1/example1a.c)
+
 ### Example 2
 
 Example 2 is used to show how you can turn a float into a string.
@@ -32,6 +34,8 @@ Example 2 is used to show how you can turn a float into a string.
 [rust](rust/src/e81/example2.rs)
 
 [ruby](ruby/8.1/example2.rb)
+
+[C](C/8.1/example2a.c)
 
 ## 8.2
 
@@ -49,6 +53,8 @@ Example 1 is used to show how to print a string.
 
 [ruby](ruby/8.2/example1.rb)
 
+[C](C/8.2/example1b.c)
+
 ### Example 2
 
 Example 2 is used to show how you can print an Interger
@@ -62,6 +68,8 @@ Example 2 is used to show how you can print an Interger
 [rust](rust/src/e82/example2.rs)
 
 [ruby](ruby/8.2/example2.rb)
+
+[C](C/8.2/example2b.c)
 
 ### Example 3
 
@@ -77,6 +85,8 @@ Example 3 is used to show how you can set the value of a variable to a string an
 
 [ruby](ruby/8.2/example3.rb)
 
+[C](C/8.2/example3b.c)
+
 ### Example 4
 
 Example 4 is used to show you can set the value of a variable to a Interger and how you can print text and the value of a variable.
@@ -90,6 +100,8 @@ Example 4 is used to show you can set the value of a variable to a Interger and 
 [rust](rust/src/e82/example4.rs)
 
 [ruby](ruby/8.2/example4.rb)
+
+[C](C/8.2/example4b.c)
 
 ### Example 5
 
@@ -105,6 +117,8 @@ Example 5 is used to show how you can convert the string value of an input comma
 
 [ruby](ruby/8.2/example5.rb)
 
+[C](C/8.2/example5b.c)
+
 ### Example 6
 
 Example 6 shows how to set the value of an input command to a variable and how to print the variable
@@ -118,6 +132,8 @@ Example 6 shows how to set the value of an input command to a variable and how t
 [rust](rust/src/e82/example6.rs)
 
 [ruby](ruby/8.2/example6.rb)
+
+[C](C/8.2/example6b.c)
 
 ## 8.3
 
