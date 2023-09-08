@@ -28,9 +28,10 @@ static int input(char wt[2], int lw) {
 }
 
 static char *inputs() {
-    static char *intrval[400];
+    static char intrval[400];
     scanf("%s", &intrval);
     return intrval;
+    free(intrval);
 }
 
 

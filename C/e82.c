@@ -4,13 +4,13 @@
 
 
 int e82() {
-    print("Enter the example you wnat to use from the selection below \n", 0, "s");
-    print("Example1 - 1 \n", 0, "s");
-    print("Example2 - 2 \n", 0, "s");
-    print("Example3 - 3 \n", 0, "s");
-    print("Example4 - 4 \n", 0, "s");
-    print("Example5 - 5 \n", 0, "s");
-    print("Example6 - 6 \n", 0, "s");
+    print("Enter the example you wnat to use from the selection below ", 0, "s");
+    print("Example1 - 1 ", 0, "s");
+    print("Example2 - 2 ", 0, "s");
+    print("Example3 - 3 ", 0, "s");
+    print("Example4 - 4 ", 0, "s");
+    print("Example5 - 5 ", 0, "s");
+    print("Example6 - 6 ", 0, "s");
     int exi3;
     exi3 = input("i", 2);
     if (exi3 == 1) {

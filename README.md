@@ -233,6 +233,8 @@ Example 1 is used to show how multiple variables and strings can be added in the
 
 [rust](rust/src/e84/example1.rs)
 
+[C](C/8.4/example1d.c)
+
 ### Example 2
 
 Example 2 is used to show that you can print the Interger of an Input command
@@ -242,6 +244,8 @@ Example 2 is used to show that you can print the Interger of an Input command
 [java](java/8.4/example2.java)
 
 [rust](rust/src/e84/example2.rs)
+
+[C](C/8.4/example2d.c)
 
 ## 8.5
 
