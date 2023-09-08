@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "e83.h"
-#include "exc.h"
+
 
 int e82() {
     print("Enter the example you wnat to use from the selection below \n", 0, "s");

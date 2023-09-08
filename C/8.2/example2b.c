@@ -1,6 +1,8 @@
 #include <stdio.h>
+#include "../exc.h" 
+
 
 int example2b() {
-    printf("%d", 20);
+    print("", 20, "i");
     return 0;
 }

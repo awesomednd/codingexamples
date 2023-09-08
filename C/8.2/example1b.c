@@ -1,6 +1,9 @@
 #include <stdio.h>
+#include "../exc.h" 
+
+
 
 int example1b() {
-    printf("Hello world");
+    print("Hello world", 0, "s");
     return 0;
 }

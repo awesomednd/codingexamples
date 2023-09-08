@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "../exc.h"
 
 int example2a() {
-    char values[20];
-    float vals = 22.4;
-    sprintf(values, "%f", vals);
-    printf("\n%s\n", values);
+    char* values = mkstr(22.4);
+    gcvt(22.4, 3, values);
+    //printf("%d", mkstr(22.4));
+    print(values, 0, "s");
     return 0;
 }
