@@ -147,6 +147,8 @@ Example 1 is used how to how you can add together multiple values of a variable 
 
 [rust](rust/src/e83/example1.rs)
 
+[C](C/8.3/example1c.c)
+
 ### Example 2
 
 Example 2 is used to show how you can subtract multiple values and set them to another variable.
@@ -156,6 +158,8 @@ Example 2 is used to show how you can subtract multiple values and set them to a
 [java](java/8.3/example2.java)
 
 [rust](rust/src/e83/example2.rs)
+
+[C](C/8.3/example2c.c)
 
 ### Example 3
 
@@ -167,6 +171,8 @@ Example 3 is used to show that you can multiply to variables that can be entered
 
 [rust](rust/src/e83/example3.rs)
 
+[C](C/8.3/example3c.c)
+
 ### Example 4
 
 Example 4 is used to show how you can devide multiple values together.
@@ -177,15 +183,19 @@ Example 4 is used to show how you can devide multiple values together.
 
 [rust](rust/src/e83/example4.rs)
 
+[C](C/8.3/example4c.c)
+
 ### Example 5
 
-Example 5 is used to show how you can set the value of a variable to an interger of numbers that are divided
+Example 5 is used to show how you can set the value of a variable to an interger of numbers that are divsided
 
 [python](python/8.3/example5.py)
 
 [java](java/8.3/example5.java)
 
 [rust](rust/src/e83/example5.rs)
+
+[C](C/8.3/example5c.c)
 
 ### Example 6
 
@@ -197,6 +207,8 @@ Example 6 is used to show how you can get the MOD of two numbers
 
 [rust](rust/src/e83/example6.rs)
 
+[C](C/8.3/example6c.c)
+
 ### Example 7
 
 Example 7 shows how the programing languages obay the laws of BODMAS (Brackets of Devision Multiplication Adding Subtraction)
@@ -206,6 +218,8 @@ Example 7 shows how the programing languages obay the laws of BODMAS (Brackets o
 [java](java/8.3/example7.java)
 
 [rust](rust/src/e83/example7.rs)
+
+[C](C/8.3/example7c.c)
 
 ## 8.4
 
@@ -501,7 +515,7 @@ Example 6 shows how you can select certain parts of a string
 
 ### Example 7
 
-Example 7 shows how you can split a string into individual letters
+Example 7 shows how you can split a string into indivsidual letters
 
 [python](python/8.9/example7.py)
 

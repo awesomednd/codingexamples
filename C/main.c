@@ -8,6 +8,7 @@ int main() {
     print("Enter the example list you wnat to use from the selection below\n", 0, "s");
     print("Example1 - 1\n", 0, "s");
     print("Example2 - 2\n", 0, "s");
+    print("Example3 - 3\n", 0, "s");
     int exi;
     exi = input("i", 2);
     print("", exi, "i");
@@ -15,6 +16,8 @@ int main() {
         e81();
     } else if (exi == 2) {
         e82();
+    } else if (exi == 3) {
+        e83();
     }
     return 0;
 }

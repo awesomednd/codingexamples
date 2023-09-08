@@ -57,4 +57,9 @@ static char* addstr(char *string1, char *string2) {
     free(result);
 }
 
+static float divs(float num1, float num2) {
+    float result = num1 / num2;
+    return result;
+}
+
 #endif
