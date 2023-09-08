@@ -15,14 +15,10 @@ static int print(char valuetoprint[200], float invaltoprint, char vt[1]) {
     }
 }
 
-static int input(char wt[1], int lw) {
+static int input(char wt[2], int lw) {
     if (wt == "i") {
         int intrval;
         scanf("%d", &intrval);
-        return intrval;
-    } else if (wt == "s") {
-        char intrval[lw];
-        scanf("%s", &intrval);
         return intrval;
     } else if (wt == "f") {
         float intrval;
@@ -30,6 +26,13 @@ static int input(char wt[1], int lw) {
         return intrval;
     }
 }
+
+static char *inputs() {
+    static char *intrval[400];
+    scanf("%s", &intrval);
+    return intrval;
+}
+
 
 static int mkint(char numbertochange[100]) {
     return atoi(numbertochange);
